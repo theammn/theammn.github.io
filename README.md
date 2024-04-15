@@ -6,3 +6,5 @@ studying
 1. the first
 
 2. to show images ![](link of the image)
+3. image upload ![](/name of the file)
+4. 
