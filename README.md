@@ -7,4 +7,4 @@ studying
 
 2. to show images ![](link of the image)
 3. image upload ![](/name of the file)
-4. 
+4. jekyll is the name of this theme [https://jamstack.org/generators/]
